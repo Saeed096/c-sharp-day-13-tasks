@@ -1,0 +1,14 @@
+E:\iti\c#\day13\tasks\tasks\bin\Debug\tasks.exe.config
+E:\iti\c#\day13\tasks\tasks\bin\Debug\tasks.exe
+E:\iti\c#\day13\tasks\tasks\bin\Debug\tasks.pdb
+E:\iti\c#\day13\tasks\tasks\bin\Debug\EntityFramework.dll
+E:\iti\c#\day13\tasks\tasks\bin\Debug\EntityFramework.SqlServer.dll
+E:\iti\c#\day13\tasks\tasks\bin\Debug\EntityFramework.xml
+E:\iti\c#\day13\tasks\tasks\bin\Debug\EntityFramework.SqlServer.xml
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.csproj.CopyComplete
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.exe
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.pdb
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.Migrations.init.resources
+E:\iti\c#\day13\tasks\tasks\obj\Debug\tasks.csproj.GenerateResource.cache
